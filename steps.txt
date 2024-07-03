@@ -1,0 +1,17 @@
+1- ng g m auth --routing
+
+
+
+
+
+
+
+
+
+
+
+----------------------
+
+1. ng add @ngrx/store
+2.ng add @ngrx/store-devtools
+3.ng add @ngrx/effects
